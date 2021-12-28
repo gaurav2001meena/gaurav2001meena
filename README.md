@@ -4,8 +4,7 @@
 - 🏢 Currently looking for internships
 - 📫 How to reach me ...meenagaurav11@gmail.com
 - 🧑‍💻 Created a front end using HTML,CSS,Javascript Which include main page,Login and signup (check it out 🙃 :- https://gaurav2001meena.github.io/techcrazy/index.html )
-
--🌐 Created a Fully Functional forum site using HTML,CSS and WordPress where one can discuss his technical issues (https://techcrazyforum.000webhostapp.com/)
+- 🌐 Created a Fully Functional forum site using HTML,CSS and WordPress where one can discuss his technical issues (https://techcrazyforum.000webhostapp.com/)
 
 
 
