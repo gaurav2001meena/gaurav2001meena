@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Gaurav
-- 🏫 Currently pursuing Btech in CSE from Birla Institute of technology , Mesra (2019-2023) (7.7 CGPA)
-- 👀 Worked in Python, Django, DRF  ;)
-- 💞 I’m looking to collaborate on ...open source projects :)
+- 🏫 Btech in CSE from Birla Institute of technology , Mesra (2019-2023)
+- 👀 Working in Python, Django, DRF and much more 
+- 💞 looking forward to collaborate/Help  :)
 - 📫 How to reach me ... meenagaurav11@gmail.com
+- 🎮 Discord SnoopSheep#1992 
